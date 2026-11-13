@@ -1,4 +1,5 @@
-﻿#include <opencv2/opencv.hpp>
+﻿// 完整圆孔检测
+#include <opencv2/opencv.hpp>
 #include <algorithm>
 #include <iostream>
 #include <string>
